@@ -1,0 +1,2 @@
+print('Mahii')
+print('Minhaj')
